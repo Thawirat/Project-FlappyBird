@@ -159,4 +159,4 @@ while True:
 		score_display('game_over')
 
 	pygame.display.update()
-	clock.tick(120)
+	clock.tick(150)
